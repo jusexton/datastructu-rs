@@ -9,3 +9,4 @@ of reusable libraries.
 
 - Binary Search Tree *(Not self balancing)*
 - Piece Table *(incomplete)*
+- Trie *(incomplete)*
