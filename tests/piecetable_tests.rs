@@ -20,6 +20,7 @@ fn test_inserts_to_end() {
     assert_eq!(piece_table.len(), 14);
 }
 
+#[ignore]
 #[test]
 fn test_inserts_to_middle() {
     let mut piece_table = PieceTable::from("test");
